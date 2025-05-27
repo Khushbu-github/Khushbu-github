@@ -57,13 +57,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <p><em>Every star motivates me to build something even better!</em></p>
-</div>
-
----
-
-<div align="center">
-  <sub>💻 Built with passion, powered by coffee ☕, and driven by the endless curiosity to create amazing digital experiences</sub>
-</div>
