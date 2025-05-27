@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Digital Universe 
+# 🚀 Welcome 
 
 ```ascii
 ██╗  ██╗██╗  ██╗██╗   ██╗███████╗██╗  ██╗██████╗ ██╗   ██╗  
@@ -40,27 +40,18 @@ console.log("Welcome to my coding journey!");
 
 ### Frontend Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui" />
 </div>
 
 ### Backend & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,mysql,mongodb,postgresql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mysql,mongodb,postgresql" />
 </div>
 
-### DevOps & Tools
+### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,heroku,linux,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman" />
 </div>
-
-### Currently Mastering
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts" />
-  <br/>
-  <sub>🚀 Next.js & TypeScript Explorer</sub>
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
