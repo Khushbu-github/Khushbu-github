@@ -28,7 +28,7 @@
 
 ### Backend & Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,mysql,mongodb,postgresql" />
 </div>
 
 ### Development Tools
