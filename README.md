@@ -12,13 +12,23 @@
 
 ## 👩‍💻 About Me
 
+🎓 B.E. in AI & Machine Learning @ Dayananda Sagar College of Engineering, Bengaluru (CGPA: 9.08/10.0)  
+🔬 Currently an **AI/ML Intern @ DEBEL (DRDO)** — building ML/DL pipelines for gait-phase classification from motion-capture data  
 🚀 Full-Stack Engineer building production-ready apps with React, Next.js, TypeScript, and FastAPI  
-🤖 AI/ML undergrad passionate about multi-agent systems, LLMs, LangChain, and RAG pipelines  
-🏆 Winner & finalist in 15+ national hackathons including IIT Hyderabad and Amrita Vishwa Vidyapeetham  
-⚡ Shipped 15+ production apps with 99%+ uptime — driving up to 60% efficiency gains for real users  
+🤖 Passionate about multi-agent systems, LLMs, LangChain, and RAG pipelines  
+🏆 Winner & finalist across multiple national hackathons, including at IIT Hyderabad and Amrita Vishwa Vidyapeetham  
+⚡ Delivered 9+ production-ready web applications for real businesses as a Full-Stack SWE Intern @ DigitalOrbit  
 👨‍🏫 Mentored 250+ students in MERN @ JIT Davangere  
 🎯 Currently exploring advanced Next.js architecture and agentic AI workflows  
-💡 I turn complex problems into clean, working solutions — and I actually enjoy the hard parts  
+💡 I turn complex problems into clean, working solutions — and I actually enjoy the hard parts
+
+---
+
+## 💼 Experience
+
+- **AI/ML Intern — DEBEL (DRDO)** _(Jul 2026 – Present)_: ML/DL pipelines for gait-phase classification across walking speeds; data leakage analysis using mutual information & permutation importance.
+- **Full-Stack Software Engineer (Intern) — DigitalOrbit** _(Oct 2025 – Jun 2026)_: Delivered 9+ production-ready web apps for real-world businesses, end-to-end.
+- **Software Development Engineer — MyStartupWave** _(Nov 2025 – Dec 2025)_: Built reusable React/Tailwind component library, cutting repetitive frontend work by 30%.
 
 ---
 
@@ -52,9 +62,9 @@
 
 ## 🏆 Achievements
 
-- 🥇 **Winner** — Srujana 2025, AI Verse Hackathon, HacktoCrack National Hackathon
-- 🥈 **Runner-up** — Dev Duel (IIT Hyderabad), Udaya (DSI)
-- 🎯 Winner, Runner-up, or Finalist in **15+ national hackathons**
+- 🥇 **Winner** — Srujana 2025 (Christ University), AI Verse Hackathon (Amrita Vishwa Vidyapeetham), HacktoCrack National Hackathon (Healthcare)
+- 🥈 **Runner-up** — Dev Duel Hackathon (IIT Hyderabad), Udaya (Dayananda Sagar Institutions)
+- 🎯 **Top 10 Finalist** — HackNocture (SMVIT), Hackademia (National College)
 
 ---
 
